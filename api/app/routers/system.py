@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from app import __version__
+from api.app import __version__
 
 router = APIRouter(tags=["System"])
 

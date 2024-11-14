@@ -11,3 +11,6 @@ requirements.txt
 .pytest_cache
 htmlcov
 .coverage
+node_modules
+.idea
+.svelte-kit
